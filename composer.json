@@ -1,0 +1,30 @@
+{
+  "name": "3brettb/nfl",
+  "description": "Php NFL Player & Statistics Helper Library",
+  "license": "MIT",
+  "homepage": "https://github.com/PhpNfl",
+  "support": {
+    "issues": "https://github.com/3brettb/PhpNfl/issues",
+    "source": "https://github.com/PhpNfl"
+  },
+  "authors": [
+    {
+      "name": "Brett Brist",
+      "email": ""
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+
+  },
+  "extra": {
+
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
